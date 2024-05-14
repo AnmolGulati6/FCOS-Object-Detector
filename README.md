@@ -10,9 +10,7 @@ This repository contains a PyTorch implementation of the Fully Convolutional One
 
 ## Module Description
 - `fcos.py`: Contains the main implementation of the FCOS detection system including the backbone network, prediction head, and post-processing steps.
-- `utils.py`: Helper functions for image processing, non-max suppression (NMS), and other utility operations.
-- `train.py`: Script for training the FCOS model on your dataset.
-- `infer.py`: Inference script to demonstrate object detection using a trained FCOS model.
+
 
 ## Installation
 ```bash
